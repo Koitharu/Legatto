@@ -1,0 +1,4 @@
+<resources>
+	<style name="Theme.Legatto" parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+	</style>
+</resources>

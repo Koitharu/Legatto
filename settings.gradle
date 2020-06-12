@@ -1,0 +1,3 @@
+rootProject.name = "Legatto"
+include ':legatto'
+include ':sample'
