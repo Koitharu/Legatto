@@ -5,8 +5,8 @@ import android.os.Bundle
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.collect
 import org.koitharu.legatto.Legatto
-import org.koitharu.legatto.ScanMode
 import org.koitharu.legatto.scan.BleScanResult
+import org.koitharu.legatto.scan.ScanMode
 import kotlin.coroutines.CoroutineContext
 
 class MainActivity : Activity(), CoroutineScope {

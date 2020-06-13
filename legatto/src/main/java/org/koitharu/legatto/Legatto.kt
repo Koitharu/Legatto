@@ -9,6 +9,7 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.consumeAsFlow
 import org.koitharu.legatto.device.LegattoDevice
 import org.koitharu.legatto.scan.BleScanResult
+import org.koitharu.legatto.scan.ScanMode
 import org.koitharu.legatto.scan.SingleScanCallback
 
 class Legatto(private val context: Context) {

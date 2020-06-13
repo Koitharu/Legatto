@@ -1,4 +1,4 @@
-package org.koitharu.legatto
+package org.koitharu.legatto.scan
 
 import android.bluetooth.le.ScanSettings
 
